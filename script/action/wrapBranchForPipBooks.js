@@ -1,0 +1,1 @@
+return 'git+ssh://git@github.com/patkujawa-wf/books.git@' + clipText.trim() + '#egg=wf-books';

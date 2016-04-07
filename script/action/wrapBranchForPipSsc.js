@@ -1,0 +1,1 @@
+return 'git+ssh://git@github.com/timmccall-wf/server_composition.git@' + clipText.trim() + '#egg=server_composition';

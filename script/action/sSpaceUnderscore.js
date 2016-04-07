@@ -1,0 +1,1 @@
+return clipText.replace(/[^a-z0-9-]/gi, '_');

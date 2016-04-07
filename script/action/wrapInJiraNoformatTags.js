@@ -1,0 +1,1 @@
+return '{noformat}\n' + clipText + '\n{noformat}\n';
