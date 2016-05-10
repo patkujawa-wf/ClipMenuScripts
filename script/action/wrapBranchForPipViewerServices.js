@@ -1,1 +1,1 @@
-return 'git+ssh://git@github.com/Workiva/wf-viewer-services@' + clipText.trim() + '#egg=wf-viewer-services';
+return 'git+ssh://git@github.com/Workiva/wf-viewer-services.git@' + clipText.trim() + '#egg=wf-viewer-services';

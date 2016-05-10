@@ -1,1 +1,1 @@
-return 'git+ssh://git@github.com/Workiva/wf-js-document-viewer@' + clipText.trim() + '#egg=sky-docviewer';
+return 'git+ssh://git@github.com/Workiva/wf-js-document-viewer.git@' + clipText.trim() + '#egg=sky-docviewer';
