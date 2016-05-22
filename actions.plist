@@ -51,6 +51,21 @@
 		<key>action</key>
 		<dict>
 			<key>path</key>
+			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/safeFilename.js</string>
+			<key>type</key>
+			<string>js</string>
+		</dict>
+		<key>children</key>
+		<array/>
+		<key>isLeaf</key>
+		<true/>
+		<key>nodeTitle</key>
+		<string>safeFilename</string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<dict>
+			<key>path</key>
 			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/unwrapNewlines.js</string>
 			<key>type</key>
 			<string>js</string>
@@ -76,21 +91,6 @@
 		<true/>
 		<key>nodeTitle</key>
 		<string>appendDate</string>
-	</dict>
-	<dict>
-		<key>action</key>
-		<dict>
-			<key>path</key>
-			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/sSlashesDots.js</string>
-			<key>type</key>
-			<string>js</string>
-		</dict>
-		<key>children</key>
-		<array/>
-		<key>isLeaf</key>
-		<true/>
-		<key>nodeTitle</key>
-		<string>sSlashesDots</string>
 	</dict>
 	<dict>
 		<key>action</key>
@@ -136,21 +136,6 @@
 		<true/>
 		<key>nodeTitle</key>
 		<string>Encode to Base64</string>
-	</dict>
-	<dict>
-		<key>action</key>
-		<dict>
-			<key>path</key>
-			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/wrapInJiraNoformatTags.js</string>
-			<key>type</key>
-			<string>js</string>
-		</dict>
-		<key>children</key>
-		<array/>
-		<key>isLeaf</key>
-		<true/>
-		<key>nodeTitle</key>
-		<string>wrapInJiraNoformatTags</string>
 	</dict>
 	<dict>
 		<key>action</key>
@@ -595,6 +580,21 @@
 				<true/>
 				<key>nodeTitle</key>
 				<string>replaceSlashWithDashAndLower</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/safeFilename.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>safeFilename</string>
 			</dict>
 			<dict>
 				<key>action</key>
