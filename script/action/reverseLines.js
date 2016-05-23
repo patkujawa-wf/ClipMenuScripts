@@ -1,0 +1,1 @@
+return clipText.split('\n').reverse().join('\n');
