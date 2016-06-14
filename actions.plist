@@ -81,6 +81,21 @@
 		<key>action</key>
 		<dict>
 			<key>path</key>
+			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/wrapInJiraNoformatTags.js</string>
+			<key>type</key>
+			<string>js</string>
+		</dict>
+		<key>children</key>
+		<array/>
+		<key>isLeaf</key>
+		<true/>
+		<key>nodeTitle</key>
+		<string>wrapInJiraNoformatTags</string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<dict>
+			<key>path</key>
 			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/appendDate.js</string>
 			<key>type</key>
 			<string>js</string>

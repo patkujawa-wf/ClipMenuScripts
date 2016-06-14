@@ -1,0 +1,1 @@
+return 'https://cdn.wk-dev.wdesk.org/viewer/' + clipText.trim()
