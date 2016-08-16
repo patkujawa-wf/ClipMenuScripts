@@ -701,6 +701,36 @@
 				<key>nodeTitle</key>
 				<string>gitRemoteAddFromCloneUrl</string>
 			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/doc_viewerDevCdnUrl.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>doc_viewerDevCdnUrl</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/viewerDevCdnUrl.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>viewerDevCdnUrl</string>
+			</dict>
 		</array>
 		<key>isLeaf</key>
 		<false/>
