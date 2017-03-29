@@ -731,6 +731,21 @@
 				<key>nodeTitle</key>
 				<string>viewerDevCdnUrl</string>
 			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/recorditGifLink.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>recorditGifLink</string>
+			</dict>
 		</array>
 		<key>isLeaf</key>
 		<false/>
