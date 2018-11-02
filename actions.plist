@@ -20,6 +20,21 @@
 	<dict>
 		<key>action</key>
 		<dict>
+			<key>path</key>
+			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/snakeCaseFromCamelCase.js</string>
+			<key>type</key>
+			<string>js</string>
+		</dict>
+		<key>children</key>
+		<array/>
+		<key>isLeaf</key>
+		<true/>
+		<key>nodeTitle</key>
+		<string>snakeCaseFromCamelCase</string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<dict>
 			<key>name</key>
 			<string>pasteAsPlainText:</string>
 			<key>type</key>
