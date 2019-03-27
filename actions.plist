@@ -183,6 +183,90 @@
 		<string>Trim.js</string>
 	</dict>
 	<dict>
+		<key>action</key>
+		<dict>
+			<key>path</key>
+			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/checkboxify.js</string>
+			<key>type</key>
+			<string>js</string>
+		</dict>
+		<key>children</key>
+		<array/>
+		<key>isLeaf</key>
+		<true/>
+		<key>nodeTitle</key>
+		<string>checkboxify</string>
+	</dict>
+	<dict>
+		<key>children</key>
+		<array>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Calculate MD5 hash.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>Calculate MD5 hash</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Calculate SHA-1 hash.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>Calculate SHA-1 hash</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Decode from Base64.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>Decode from Base64</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Encode to Base64.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>children</key>
+				<array/>
+				<key>isLeaf</key>
+				<true/>
+				<key>nodeTitle</key>
+				<string>Encode to Base64</string>
+			</dict>
+		</array>
+		<key>isLeaf</key>
+		<false/>
+		<key>nodeTitle</key>
+		<string>Crypt</string>
+	</dict>
+	<dict>
 		<key>children</key>
 		<array>
 			<dict>
@@ -478,75 +562,6 @@
 		<false/>
 		<key>nodeTitle</key>
 		<string>HTML</string>
-	</dict>
-	<dict>
-		<key>children</key>
-		<array>
-			<dict>
-				<key>action</key>
-				<dict>
-					<key>path</key>
-					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Calculate MD5 hash.js</string>
-					<key>type</key>
-					<string>js</string>
-				</dict>
-				<key>children</key>
-				<array/>
-				<key>isLeaf</key>
-				<true/>
-				<key>nodeTitle</key>
-				<string>Calculate MD5 hash</string>
-			</dict>
-			<dict>
-				<key>action</key>
-				<dict>
-					<key>path</key>
-					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Calculate SHA-1 hash.js</string>
-					<key>type</key>
-					<string>js</string>
-				</dict>
-				<key>children</key>
-				<array/>
-				<key>isLeaf</key>
-				<true/>
-				<key>nodeTitle</key>
-				<string>Calculate SHA-1 hash</string>
-			</dict>
-			<dict>
-				<key>action</key>
-				<dict>
-					<key>path</key>
-					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Decode from Base64.js</string>
-					<key>type</key>
-					<string>js</string>
-				</dict>
-				<key>children</key>
-				<array/>
-				<key>isLeaf</key>
-				<true/>
-				<key>nodeTitle</key>
-				<string>Decode from Base64</string>
-			</dict>
-			<dict>
-				<key>action</key>
-				<dict>
-					<key>path</key>
-					<string>/Applications/ClipMenu.app/Contents/Resources/script/action/Crypt/Encode to Base64.js</string>
-					<key>type</key>
-					<string>js</string>
-				</dict>
-				<key>children</key>
-				<array/>
-				<key>isLeaf</key>
-				<true/>
-				<key>nodeTitle</key>
-				<string>Encode to Base64</string>
-			</dict>
-		</array>
-		<key>isLeaf</key>
-		<false/>
-		<key>nodeTitle</key>
-		<string>Crypt</string>
 	</dict>
 	<dict>
 		<key>children</key>
