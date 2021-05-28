@@ -10,10 +10,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>sSpaceUnderscore</string>
 	</dict>
@@ -25,10 +23,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>snakeCaseFromCamelCase</string>
 	</dict>
@@ -40,10 +36,8 @@
 			<key>type</key>
 			<string>builtin</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>Paste as Plain Text</string>
 	</dict>
@@ -55,10 +49,8 @@
 			<key>type</key>
 			<string>builtin</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>Paste as File Path</string>
 	</dict>
@@ -70,10 +62,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>safeFilename</string>
 	</dict>
@@ -85,10 +75,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>unwrapNewlines</string>
 	</dict>
@@ -100,10 +88,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>wrapInJiraNoformatTags</string>
 	</dict>
@@ -115,10 +101,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>appendDate</string>
 	</dict>
@@ -130,10 +114,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>replaceSlashWithDashAndLower</string>
 	</dict>
@@ -145,10 +127,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>Decode from Base64</string>
 	</dict>
@@ -160,10 +140,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>Encode to Base64</string>
 	</dict>
@@ -175,10 +153,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>Trim.js</string>
 	</dict>
@@ -190,10 +166,8 @@
 			<key>type</key>
 			<string>js</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>checkboxify</string>
 	</dict>
@@ -208,10 +182,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Calculate MD5 hash</string>
 			</dict>
@@ -223,10 +195,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Calculate SHA-1 hash</string>
 			</dict>
@@ -238,10 +208,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Decode from Base64</string>
 			</dict>
@@ -253,16 +221,14 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Encode to Base64</string>
 			</dict>
 		</array>
 		<key>isLeaf</key>
-		<false/>
+		<integer>0</integer>
 		<key>nodeTitle</key>
 		<string>Crypt</string>
 	</dict>
@@ -277,10 +243,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>toCamelCase</string>
 			</dict>
@@ -292,10 +256,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>snakeCaseFromCamelCase</string>
 			</dict>
@@ -307,10 +269,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Capitalize.js</string>
 			</dict>
@@ -322,10 +282,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>lowercase.js</string>
 			</dict>
@@ -337,10 +295,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Title Case.js</string>
 			</dict>
@@ -352,16 +308,14 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>UPPERCASE.js</string>
 			</dict>
 		</array>
 		<key>isLeaf</key>
-		<false/>
+		<integer>0</integer>
 		<key>nodeTitle</key>
 		<string>Case</string>
 	</dict>
@@ -376,10 +330,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>LTrim.js</string>
 			</dict>
@@ -391,16 +343,14 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>RTrim.js</string>
 			</dict>
 		</array>
 		<key>isLeaf</key>
-		<false/>
+		<integer>0</integer>
 		<key>nodeTitle</key>
 		<string>Trim</string>
 	</dict>
@@ -412,10 +362,8 @@
 			<key>type</key>
 			<string>builtin</string>
 		</dict>
-		<key>children</key>
-		<array/>
 		<key>isLeaf</key>
-		<true/>
+		<integer>1</integer>
 		<key>nodeTitle</key>
 		<string>Remove</string>
 	</dict>
@@ -430,10 +378,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Convert Character to Decimal</string>
 			</dict>
@@ -445,10 +391,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Convert Decimal to Character</string>
 			</dict>
@@ -460,10 +404,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Convert Markdown to HTML</string>
 			</dict>
@@ -475,10 +417,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Decode URI component</string>
 			</dict>
@@ -490,10 +430,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Encode URI component</string>
 			</dict>
@@ -505,10 +443,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Escape HTML characters</string>
 			</dict>
@@ -520,10 +456,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Strip Tags</string>
 			</dict>
@@ -535,10 +469,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Surround with Tags...</string>
 			</dict>
@@ -550,16 +482,14 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>Unescape HTML characters</string>
 			</dict>
 		</array>
 		<key>isLeaf</key>
-		<false/>
+		<integer>0</integer>
 		<key>nodeTitle</key>
 		<string>HTML</string>
 	</dict>
@@ -574,10 +504,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>wrapBranchForPipViewerServices</string>
 			</dict>
@@ -589,10 +517,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>wrapBranchForPipSsc</string>
 			</dict>
@@ -604,10 +530,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>wrapBranchForPipBooks</string>
 			</dict>
@@ -619,10 +543,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>reverseLines</string>
 			</dict>
@@ -634,10 +556,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>appendDate</string>
 			</dict>
@@ -649,10 +569,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>replaceSlashWithDashAndLower</string>
 			</dict>
@@ -664,10 +582,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>safeFilename</string>
 			</dict>
@@ -679,10 +595,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>sSlashesDots</string>
 			</dict>
@@ -694,10 +608,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>sSpaceUnderscore</string>
 			</dict>
@@ -709,10 +621,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>unwrapNewlines</string>
 			</dict>
@@ -724,10 +634,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>wrapInJiraNoformatTags</string>
 			</dict>
@@ -739,10 +647,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>gitRemoteAddFromCloneUrl</string>
 			</dict>
@@ -754,10 +660,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>doc_viewerDevCdnUrl</string>
 			</dict>
@@ -769,10 +673,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>viewerDevCdnUrl</string>
 			</dict>
@@ -784,10 +686,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>lookupLikeAccountName</string>
 			</dict>
@@ -799,10 +699,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>recorditGifLink</string>
 			</dict>
@@ -814,10 +712,8 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>sauceVideoDownloadUrlFromId</string>
 			</dict>
@@ -829,16 +725,14 @@
 					<key>type</key>
 					<string>js</string>
 				</dict>
-				<key>children</key>
-				<array/>
 				<key>isLeaf</key>
-				<true/>
+				<integer>1</integer>
 				<key>nodeTitle</key>
 				<string>appendAtSignCurrentDateTime</string>
 			</dict>
 		</array>
 		<key>isLeaf</key>
-		<false/>
+		<integer>0</integer>
 		<key>nodeTitle</key>
 		<string>Mine</string>
 	</dict>
