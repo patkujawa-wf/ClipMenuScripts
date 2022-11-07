@@ -730,6 +730,19 @@
 				<key>nodeTitle</key>
 				<string>appendAtSignCurrentDateTime</string>
 			</dict>
+			<dict>
+				<key>action</key>
+				<dict>
+					<key>path</key>
+					<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/springPropToEnvVar.js</string>
+					<key>type</key>
+					<string>js</string>
+				</dict>
+				<key>isLeaf</key>
+				<integer>1</integer>
+				<key>nodeTitle</key>
+				<string>springPropToEnvVar</string>
+			</dict>
 		</array>
 		<key>isLeaf</key>
 		<integer>0</integer>
