@@ -58,6 +58,19 @@
 		<key>action</key>
 		<dict>
 			<key>path</key>
+			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/jsonFormat.js</string>
+			<key>type</key>
+			<string>js</string>
+		</dict>
+		<key>isLeaf</key>
+		<integer>1</integer>
+		<key>nodeTitle</key>
+		<string>jsonFormat</string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<dict>
+			<key>path</key>
 			<string>/Users/patkujawa/Library/Application Support/ClipMenu/script/action/safeFilename.js</string>
 			<key>type</key>
 			<string>js</string>
