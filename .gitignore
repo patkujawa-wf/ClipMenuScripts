@@ -2,3 +2,4 @@ Snippets.xml
 clips.data
 *.sublime-*
 *.dat*
+.DS_Store
