@@ -1,0 +1,1 @@
+return JSON.stringify(JSON.parse(clipText), null, 2)

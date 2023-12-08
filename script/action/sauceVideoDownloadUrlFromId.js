@@ -1,0 +1,1 @@
+return 'https://assets.saucelabs.com/jobs/' + clipText.trim() + '/video.flv'

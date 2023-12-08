@@ -1,0 +1,1 @@
+return clipText.split("\r").join('').split('\n').join('');
